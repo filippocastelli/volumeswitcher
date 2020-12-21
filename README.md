@@ -1,4 +1,7 @@
 # VolumeSwitcher
+<p align="center">
+  <img src="VolumeSwitcher/logo.png" width="500">
+</p>
 
 Volume Switcher is an open source extension for [3DSlicer](http://www.slicer.org/), lets you switch between volumes in 3D Slicer without losing track of the zoom and 3D position. 
 You can easily switch between co-registered volumes to observe the same detail in every view without navigating for the same spot every time you change view.
