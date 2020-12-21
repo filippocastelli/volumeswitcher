@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/home/phil/Scrivania/Slicer-4.11.20200930-linux-amd64/bin/PythonSlicer",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+}
